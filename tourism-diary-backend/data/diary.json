@@ -1,0 +1,239 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Eiffel Tower",
+      "country": "France",
+      "description": "Iconic iron lattice tower in Paris, symbol of French culture and engineering",
+      "coordinates": {
+        "lat": 48.8584,
+        "lng": 2.2945
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Great Wall of China",
+      "country": "China",
+      "description": "Ancient wall spanning thousands of kilometers, a marvel of engineering and history",
+      "coordinates": {
+        "lat": 40.6769,
+        "lng": 117.2313
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/960px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Taj Mahal",
+      "country": "India",
+      "description": "Stunning white marble mausoleum built by Mughal emperor Shah Jahan",
+      "coordinates": {
+        "lat": 27.1751,
+        "lng": 78.0421
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/960px-Taj_Mahal_%28Edited%29.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Statue of Liberty",
+      "country": "United States",
+      "description": "Colossal copper statue representing freedom and democracy in New York Harbor",
+      "coordinates": {
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/960px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Colosseum",
+      "country": "Italy",
+      "description": "Ancient Roman amphitheater showcasing the architectural brilliance of Rome",
+      "coordinates": {
+        "lat": 41.8902,
+        "lng": 12.4924
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/960px-Colosseo_2020.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "description": "Ancient Incan citadel set high in the Andes Mountains",
+      "coordinates": {
+        "lat": -13.1631,
+        "lng": -72.545
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/960px-Machu_Picchu%2C_2023_%28012%29.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Burj Khalifa",
+      "country": "United Arab Emirates",
+      "description": "World-famous skyscraper in Dubai with sweeping views across the city skyline",
+      "coordinates": {
+        "lat": 25.1972,
+        "lng": 55.2744
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/960px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Sydney Opera House",
+      "country": "Australia",
+      "description": "Harbor-side performing arts center known for its sail-shaped architecture",
+      "coordinates": {
+        "lat": -33.8568,
+        "lng": 151.2153
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/960px-Sydney_Australia._%2821339175489%29.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Christ the Redeemer",
+      "country": "Brazil",
+      "description": "Art Deco statue overlooking Rio de Janeiro from Mount Corcovado",
+      "coordinates": {
+        "lat": -22.9519,
+        "lng": -43.2105
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/960px-Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Santorini",
+      "country": "Greece",
+      "description": "Aegean island destination known for whitewashed villages, blue domes, and sunsets",
+      "coordinates": {
+        "lat": 36.3932,
+        "lng": 25.4615
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Blue-dome-Santorini.JPG/960px-Blue-dome-Santorini.JPG"
+    },
+    {
+      "id": "11",
+      "name": "Grand Canyon",
+      "country": "United States",
+      "description": "Vast canyon landscape carved by the Colorado River in Arizona",
+      "coordinates": {
+        "lat": 36.1069,
+        "lng": -112.1129
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/960px-Canyon_River_Tree_%28165872763%29.jpeg"
+    },
+    {
+      "id": "12",
+      "name": "Maldives",
+      "country": "Maldives",
+      "description": "Tropical island destination with clear lagoons, coral reefs, and overwater villas",
+      "coordinates": {
+        "lat": 3.2028,
+        "lng": 73.2207
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Diamonds_Thudufushi_Beach_and_Water_Villas%2C_May_2017_-08.jpg/960px-Diamonds_Thudufushi_Beach_and_Water_Villas%2C_May_2017_-08.jpg"
+    },
+    {
+      "id": "1779191977486",
+      "name": "Red Fort",
+      "country": "India",
+      "description": "A very old architecture built by the mughals",
+      "coordinates": {},
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+      "createdAt": "2026-05-19T11:59:37.486Z"
+    },
+    {
+      "id": "1779194285957",
+      "name": "Gateway of India",
+      "country": "India",
+      "description": "Tourism place near Beach at Mumbai",
+      "coordinates": {},
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mumbai_03-2016_31_Gateway_of_India.jpg/960px-Mumbai_03-2016_31_Gateway_of_India.jpg",
+      "createdAt": "2026-05-19T12:38:05.960Z"
+    }
+  ],
+  "entries": [
+    {
+      "id": "101",
+      "title": "First glimpse of the Eiffel Tower",
+      "content": "Walking through the streets of Paris for the first time, I couldn't believe how magnificent the Eiffel Tower looked up close. The way it glittered at night with thousands of lights was absolutely breathtaking. I spent the evening watching it twinkle from the nearby gardens.",
+      "destinationId": "1",
+      "date": "2024-06-15",
+      "rating": 5,
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+      ],
+      "createdAt": "2024-06-15T10:30:00Z"
+    },
+    {
+      "id": "102",
+      "title": "Climbing the Tower",
+      "content": "Today I climbed to the top of the Eiffel Tower. The view of Paris from above was indescribable. I could see the Seine river winding through the city, the Arc de Triomphe in the distance, and countless Parisian rooftops. My legs were tired but my heart was full.",
+      "destinationId": "1",
+      "date": "2024-06-16",
+      "rating": 5,
+      "photos": [],
+      "createdAt": "2024-06-16T14:20:00Z"
+    },
+    {
+      "id": "103",
+      "title": "Walking the Great Wall",
+      "content": "The Great Wall is even more impressive in person than in photographs. The stone pathway beneath my feet has been walked by millions throughout history. Standing on this ancient structure, I felt connected to centuries of Chinese civilization. The misty mountains surrounding it added to the mystical atmosphere.",
+      "destinationId": "2",
+      "date": "2024-07-01",
+      "rating": 5,
+      "photos": [],
+      "createdAt": "2024-07-01T09:15:00Z"
+    },
+    {
+      "id": "104",
+      "title": "Taj Mahal at sunrise",
+      "content": "I woke up before dawn to see the Taj Mahal as the sun rose. Watching it transform from gray to white to golden hues was one of the most magical moments of my life. The intricate marble inlays caught the light beautifully. It truly is a monument to love.",
+      "destinationId": "3",
+      "date": "2024-07-15",
+      "rating": 5,
+      "photos": [],
+      "createdAt": "2024-07-15T06:00:00Z"
+    },
+    {
+      "id": "105",
+      "title": "Liberty Island experience",
+      "content": "Standing before the Statue of Liberty was humbling. Such an important symbol of freedom and hope. The journey by ferry across New York Harbor and then climbing inside the statue was unforgettable. The view from the crown was spectacular.",
+      "destinationId": "4",
+      "date": "2024-08-10",
+      "rating": 4,
+      "photos": [],
+      "createdAt": "2024-08-10T11:45:00Z"
+    },
+    {
+      "id": "106",
+      "title": "Exploring the Colosseum",
+      "content": "Walking through the ancient ruins of the Colosseum was like stepping back in time. I could almost hear the echoes of gladiator battles and roaring crowds. The architectural details and engineering are remarkable. Rome truly deserves its title as the Eternal City.",
+      "destinationId": "5",
+      "date": "2024-08-25",
+      "rating": 5,
+      "photos": [],
+      "createdAt": "2024-08-25T15:30:00Z"
+    },
+    {
+      "id": "107",
+      "title": "High altitude adventure",
+      "content": "Machu Picchu sits at an incredible altitude. The trek up was challenging but so rewarding. The terraced agricultural structures and the precision of the Incan stonework without mortar is astounding. Looking out over the misty valleys below, I understood why this place was considered sacred.",
+      "destinationId": "6",
+      "date": "2024-09-05",
+      "rating": 5,
+      "photos": [],
+      "createdAt": "2024-09-05T13:20:00Z"
+    },
+    {
+      "id": "1779192211520",
+      "title": "Delhi Tourism",
+      "content": "abc hii",
+      "destinationId": "1779191977486",
+      "date": "2026-05-19",
+      "rating": 4,
+      "photos": [],
+      "createdAt": "2026-05-19T12:03:31.520Z",
+      "updatedAt": "2026-05-19T13:12:42.431Z"
+    }
+  ]
+}

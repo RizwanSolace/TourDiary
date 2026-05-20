@@ -6,7 +6,7 @@ import EntryForm from './components/EntryForm';
 import AllEntries from './components/AllEntries';
 import AddDestinationForm from './components/AddDestinationForm';
 
-const API_BASE = import.meta.env.API;
+const API_BASE = import.meta.env.VITE_API;
 
 function App() {
   const [view, setView] = useState('destinations');

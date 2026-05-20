@@ -6,7 +6,7 @@ import EntryForm from './components/EntryForm';
 import AllEntries from './components/AllEntries';
 import AddDestinationForm from './components/AddDestinationForm';
 
-const API_BASE = 'http://localhost:5000/api'||'https://tourdiary.onrender.com/api';
+const API_BASE = 'https://tourdiary.onrender.com/api';
 
 function App() {
   const [view, setView] = useState('destinations');
